@@ -24,7 +24,7 @@ pip install git+ssh://git@github.com/nsu-ai-team/noise_supression.git
 ## Python usage
 Loading the module
 ```
->>> from enhance_audio import AudioEnhancer
+>>> from noise_supression.enhance_audio import AudioEnhancer
 >>> ae = AudioEnhancer()
 ```
 Enhancing an audio file
@@ -32,7 +32,7 @@ Enhancing an audio file
 >>> ae.enhance_audio('example/61-70968-0000.n.wav','example/61-70968-0000.enh.wav')
 ```
 
-## Command line usage
+## Command line usage (if cloned)
 Loading the module
 ```
 $ python enhance_audio.py example/61-70968-0000.n.wav example/61-70968-0000.enh.wav
