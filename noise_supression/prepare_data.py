@@ -10,7 +10,6 @@ import numpy as np
 import argparse
 import csv
 import time
-import matplotlib.pyplot as plt
 from scipy import signal
 import pickle
 import h5py
