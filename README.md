@@ -18,7 +18,7 @@ A trained model (https://github.com/nsu-ai-team/noise_supression/blob/master/mod
 
 ## Installation
 ```
-pip install git+ssh://git@github.com/nsu-ai-team/noise_supression.git
+pip install git+https://git@github.com/nsu-ai-team/noise_supression.git
 ```
 
 ## Python usage
