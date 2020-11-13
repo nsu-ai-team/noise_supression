@@ -55,7 +55,7 @@ setup(
     # your project is installed. For an analysis of "install_requires" vs pip's
     # requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
-    install_requires=['keras==2.2.4', 'soundfile', 'librosa', 'tensorflow==1.12.0', 'numpy', 'scipy', 'h5py', 'sklearn==0.19.2'],
+    install_requires=['keras==2.2.4', 'soundfile', 'librosa', 'tensorflow==2.3.1', 'numpy', 'scipy', 'h5py', 'sklearn==0.19.2'],
 
     # List additional groups of dependencies here (e.g. development
     # dependencies). You can install these using the following syntax,
